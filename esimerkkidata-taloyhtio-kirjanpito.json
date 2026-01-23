@@ -1,0 +1,5764 @@
+{
+  "taloyhtionTiedot": {
+    "nimi": "Asunto Oy Koivurinne",
+    "ytunnus": "1234567-8",
+    "osoite": "Mallikatu 1 A 1",
+    "postinumero": "00100",
+    "postitoimipaikka": "Mallikaupunki",
+    "puhelin": "",
+    "sahkoposti": "info@koivurinne.example",
+    "nimellinen_arvo": 0,
+    "allekirjoittajat": [
+      {
+        "etunimi": "Matti",
+        "sukunimi": "Esimerkki",
+        "titteli": "Hallituksen puheenjohtaja"
+      },
+      {
+        "etunimi": "Teemu",
+        "sukunimi": "Testinen",
+        "titteli": "Isännöitsijä"
+      },
+      {
+        "etunimi": "Laura",
+        "sukunimi": "Mallinen",
+        "titteli": "Hallituksen jäsen"
+      },
+      {
+        "etunimi": "Anna",
+        "sukunimi": "Harjoitus",
+        "titteli": "Hallituksen jäsen"
+      }
+    ],
+    "vapaamuotoinen_teksti": "# Toimintakertomus\n\nYhtiö on perustettu 1.7.1988 ja merkitty kaupparekisteriin 22.2.1989. Yhtiön toimialana on omistaa ja hallita tonttia numero 8 Mallikaupunkin kaupungin XXIX kaupunginosan 5. korttelissa, sekä sille rakennettua kahta rakennusta osoitteessa Rantueentie 7, 40200 Mallikaupunki (y-tunnus 0748440-7).\n\n## Hallinto\n\nHallituksen jäseninä tilikaudella ovat olleet:  \nLaura Mallinen, jäsen  \nTeemu Testinen, jäsen  \nSari Demo, jäsen (osan kautta Anna Harjoitus) \nMatti Esimerkki, puheenjohtaja\n\nIsännöitsijän tehtäviä on hoitanut Teemu Testinen.\n\nHallitus on kokoontunut kertomusvuonna yhden kerran. Varsinainen yhtiökokous pidettiin 09.06.2025. Yhtiö ei ole enää valinnut toiminnantarkastajaa.\n\nTilikauden aikana yhtiön osakkeiden omistuksessa tapahtui muutos.\nOmistajanvaihdoksen seurauksena hallituksen kokoonpano muuttui\nkertomusvuoden aikana.\n\n## Palkat ja palkkiot\n\nHallituksen jäsenille ja isännöitsijälle ei ole maksettu palkkaa tai palkkiota tilikauden aikana.\n\n## Talous\n\nHoitovastike on ollut 160,00 euroa kuukaudessa huoneistoa kohden.\n\nVastikkeita on peritty kertomusvuonna 7 680 euroa. Yhtiön maksuvalmius on ollut kohtalainen.\n\nAiemmilta tilikausilta peräisin oleva kirjausvirhe -595.86 € on korjattu tilikaudella 2025 suoraan omaan pääomaan (voittovaroihin). Korjauksella ei ole vaikutusta tilikauden tulokseen.\n\n## Vakuutukset\n\nYhtiöllä on kiinteistön täysarvovakuutus vakuutusyhtiö Ifssä.\n\n## Korjaukset ja kunnossapito\n\nTilikaudella ei ole tehty korjauksia.\n\nAiemmat korjaukset ja osakaskohtaiset remontit on lueteltu erillisessä kunnossapitohistoriassa.\n\n## Tulevaisuuden näkymät ja kunnossapitotarve\n\nYhtiöllä ei ole tiedossa muita merkittäviä hankkeita lähivuosina. Pidemmällä aikavälillä seurataan rakennusten teknisiä järjestelmiä ja tehdään tarvittaessa kunnossapito- ja korjaustoimia tarpeen mukaan.\n"
+  },
+  "vuodet": {
+    "2023": {
+      "vuosi": 2023,
+      "tilit": [
+        {
+          "numero": "FI21123412341234123412",
+          "nimi": "käyttötili",
+          "tyyppi": "pankki",
+          "saldo": 816.8,
+          "alkusaldo": 1370.41,
+          "id": 1763369151164.473,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151164.7917,
+          "numero": "3000",
+          "nimi": "Hoitovastikkeet",
+          "tyyppi": "tulot",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151164.7573,
+          "numero": "4010",
+          "nimi": "Sähkö",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151164.772,
+          "numero": "4100",
+          "nimi": "Korjaukset ja ylläpito",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151164.278,
+          "numero": "4200",
+          "nimi": "Muut kulut",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4060",
+          "nimi": "Vakuutus",
+          "tyyppi": "kulut",
+          "id": 1763369151164.676,
+          "saldo": 0,
+          "alkusaldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4020",
+          "nimi": "Vesi",
+          "tyyppi": "kulut",
+          "id": 1763369151164.171,
+          "saldo": 0,
+          "alkusaldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4050",
+          "nimi": "Jätehuolto",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 1763369151165.676,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4070",
+          "nimi": "Kiinteistövero",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 1763369151166.676,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4080",
+          "nimi": "KTV-maksut",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 1763369151167.676,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4030",
+          "nimi": "Vesimaksut",
+          "tyyppi": "tulot",
+          "alkusaldo": 0,
+          "id": 1763369151169.676,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151170.676,
+          "numero": "2999",
+          "nimi": "Tilikauden tulos",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": 0,
+          "saldo": -569.24,
+          "onKirjanpidollinen": true
+        },
+        {
+          "numero": "1050",
+          "nimi": "Osakepääoma",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": 5920.22,
+          "onKirjanpidollinen": true,
+          "id": 1763369151171.676,
+          "saldo": 5920.22
+        },
+        {
+          "numero": "1100",
+          "nimi": "Rakennukset",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 559671.64,
+          "onKirjanpidollinen": true,
+          "id": 1763369151172.676,
+          "saldo": 558524.31
+        },
+        {
+          "numero": "1200",
+          "nimi": "Maa-alueet ja liittymät",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 38044.11,
+          "onKirjanpidollinen": true,
+          "id": 1763369151173.676,
+          "saldo": 38044.11
+        },
+        {
+          "numero": "1300",
+          "nimi": "Kalusto",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 270,
+          "onKirjanpidollinen": true,
+          "id": 1763369151174.676,
+          "saldo": 270
+        },
+        {
+          "numero": "1060",
+          "nimi": "Rakennusrahasto",
+          "tyyppi": "rahasto",
+          "alkusaldo": 595183.43,
+          "onKirjanpidollinen": true,
+          "id": 1763369151175.676,
+          "saldo": 595183.43
+        },
+        {
+          "numero": "1400",
+          "nimi": "Voittovarat",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": 55.43,
+          "onKirjanpidollinen": true,
+          "id": 1763369151176.676,
+          "saldo": 55.43
+        },
+        {
+          "numero": "1990",
+          "nimi": "Siirtosaaminen",
+          "tyyppi": "siirtosaaminen",
+          "alkusaldo": 0,
+          "onKirjanpidollinen": true,
+          "id": 1763369151177.676,
+          "saldo": 0
+        },
+        {
+          "numero": "2990",
+          "nimi": "Siirtovelat",
+          "tyyppi": "siirtovelka",
+          "alkusaldo": 0,
+          "onKirjanpidollinen": true,
+          "id": 1763369151178.676,
+          "saldo": 0
+        }
+      ],
+      "poistot": [],
+      "talousarvio": {
+        "vuosi": 2024,
+        "neliometrit": 352,
+        "rivit": [
+          {
+            "id": 1,
+            "nimi": "Hoitovastikkeet",
+            "summa": 6740,
+            "tyyppi": "tuotto",
+            "kategoria": "hoitotuotot",
+            "tilit": [
+              "3000"
+            ]
+          },
+          {
+            "id": 6,
+            "nimi": "Jätehuolto",
+            "summa": 1000,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4050"
+            ]
+          },
+          {
+            "id": 7,
+            "nimi": "Vahinkovakuutukset",
+            "summa": 2100,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4060"
+            ]
+          },
+          {
+            "id": 8,
+            "nimi": "Kiinteistövero",
+            "summa": 1350,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4070"
+            ]
+          },
+          {
+            "id": 9,
+            "nimi": "Muut hoitomenot",
+            "summa": 1500,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4100",
+              "4200"
+            ]
+          },
+          {
+            "id": 10,
+            "nimi": "Sähkö",
+            "summa": 300,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4010"
+            ]
+          },
+          {
+            "id": 11,
+            "nimi": "KTV-maksu",
+            "summa": 324,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4080"
+            ]
+          }
+        ]
+      },
+      "kaksipuolisetTapahtumat": [
+        {
+          "pvm": "2023-11-09T00:00:00.000Z",
+          "kuvaus": "Vakuutusyhtiö vakuutusmaksu",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "seuraavalle",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 2100.92
+            },
+            {
+              "tili": "4060",
+              "debet": 569.24
+            },
+            {
+              "tili": "1990",
+              "debet": 1531.68
+            }
+          ],
+          "id": 2023000007
+        },
+        {
+          "pvm": "2023-12-31T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU, jaksotus 2023",
+          "tyyppi": "jaksotus",
+          "linkedId": 2024000195,
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 91.75
+            },
+            {
+              "tili": "2990",
+              "kredit": 91.75
+            }
+          ],
+          "id": 2023000008
+        },
+        {
+          "pvm": "2023-12-31T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU, jaksotus 2023",
+          "tyyppi": "jaksotus",
+          "linkedId": 2024000196,
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 39.99
+            },
+            {
+              "tili": "2990",
+              "kredit": 39.99
+            }
+          ],
+          "id": 2023000009
+        },
+        {
+          "pvm": "2023-12-31T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU, jaksotus 2023",
+          "tyyppi": "jaksotus",
+          "linkedId": 2024000197,
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 69.68
+            },
+            {
+              "tili": "2990",
+              "kredit": 69.68
+            }
+          ],
+          "id": 2023000010
+        },
+        {
+          "pvm": "2023-12-31T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU, jaksotus 2023",
+          "tyyppi": "jaksotus",
+          "linkedId": 2024000198,
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.13
+            },
+            {
+              "tili": "2990",
+              "kredit": 22.13
+            }
+          ],
+          "id": 2023000011
+        },
+        {
+          "pvm": "2023-12-31T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU, jaksotus 2023",
+          "tyyppi": "jaksotus",
+          "linkedId": 2024000199,
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.5
+            },
+            {
+              "tili": "2990",
+              "kredit": 23.5
+            }
+          ],
+          "id": 2023000012
+        }
+      ],
+      "kaksipuolinenKirjanpito": true
+    },
+    "2024": {
+      "vuosi": 2024,
+      "tilit": [
+        {
+          "numero": "FI21123412341234123412",
+          "nimi": "käyttötili",
+          "tyyppi": "pankki",
+          "saldo": 623.09,
+          "alkusaldo": 816.8,
+          "id": 1763369151164.4473,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151164.1917,
+          "numero": "3000",
+          "nimi": "Hoitovastikkeet",
+          "tyyppi": "tulot",
+          "alkusaldo": 0,
+          "saldo": 560,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151164.5574,
+          "numero": "4010",
+          "nimi": "Sähkö",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "saldo": -91.75,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151164.172,
+          "numero": "4100",
+          "nimi": "Korjaukset ja ylläpito",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151164.2488,
+          "numero": "4200",
+          "nimi": "Muut kulut",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4060",
+          "nimi": "Vakuutus",
+          "tyyppi": "kulut",
+          "id": 1763369151164.606,
+          "saldo": 0,
+          "alkusaldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4020",
+          "nimi": "Vesi",
+          "tyyppi": "kulut",
+          "id": 1763369151164.141,
+          "saldo": 0,
+          "alkusaldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4050",
+          "nimi": "Jätehuolto",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 1763369151165.606,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4070",
+          "nimi": "Kiinteistövero",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 1763369151166.606,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4080",
+          "nimi": "KTV-maksut",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 1763369151167.606,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4030",
+          "nimi": "Vesimaksut",
+          "tyyppi": "tulot",
+          "alkusaldo": 0,
+          "id": 1763369151169.606,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 1763369151170.606,
+          "numero": "2999",
+          "nimi": "Tilikauden tulos",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": 0,
+          "saldo": 459.81,
+          "onKirjanpidollinen": true
+        },
+        {
+          "numero": "1050",
+          "nimi": "Osakepääoma",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": 5920.22,
+          "onKirjanpidollinen": true,
+          "id": 1763369151171.606,
+          "saldo": 5920.22
+        },
+        {
+          "numero": "1100",
+          "nimi": "Rakennukset",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 559671.64,
+          "onKirjanpidollinen": true,
+          "id": 1763369151172.606,
+          "saldo": 558524.31
+        },
+        {
+          "numero": "1200",
+          "nimi": "Maa-alueet ja liittymät",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 38044.11,
+          "onKirjanpidollinen": true,
+          "id": 1763369151173.606,
+          "saldo": 35319.46
+        },
+        {
+          "numero": "1300",
+          "nimi": "Kalusto",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 270,
+          "onKirjanpidollinen": true,
+          "id": 1763369151174.606,
+          "saldo": 270
+        },
+        {
+          "numero": "1060",
+          "nimi": "Rakennusrahasto",
+          "tyyppi": "rahasto",
+          "alkusaldo": 595183.43,
+          "onKirjanpidollinen": true,
+          "id": 1763369151175.606,
+          "saldo": 595183.43
+        },
+        {
+          "numero": "1400",
+          "nimi": "Voittovarat",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": -384.52,
+          "onKirjanpidollinen": true,
+          "id": 1763369151176.606,
+          "saldo": -384.52
+        },
+        {
+          "numero": "1990",
+          "nimi": "Siirtosaamiset",
+          "tyyppi": "siirtosaaminen",
+          "alkusaldo": 0,
+          "onKirjanpidollinen": true,
+          "id": 1763369151177.606,
+          "saldo": 0
+        },
+        {
+          "numero": "2990",
+          "nimi": "Siirtovelat",
+          "tyyppi": "siirtovelka",
+          "alkusaldo": 0,
+          "onKirjanpidollinen": true,
+          "id": 1763369151178.606,
+          "saldo": 0
+        }
+      ],
+      "poistot": [
+        {
+          "id": 1,
+          "kuvaus": "Rakennusten vuosipoisto 2024",
+          "kohde": "Rakennukset",
+          "alkuarvo": 559671.64,
+          "maara": 1147.33,
+          "vuosi": 2024,
+          "tili": "1100"
+        }
+      ],
+      "talousarvio": {
+        "vuosi": 2025,
+        "neliometrit": 352,
+        "rivit": [
+          {
+            "id": 1,
+            "nimi": "Hoitovastikkeet",
+            "summa": 7680,
+            "tyyppi": "tuotto",
+            "kategoria": "hoitotuotot",
+            "tilit": [
+              "3000"
+            ]
+          },
+          {
+            "id": 6,
+            "nimi": "Jätehuolto",
+            "summa": 1000,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4050"
+            ]
+          },
+          {
+            "id": 7,
+            "nimi": "Vahinkovakuutukset",
+            "summa": 2100,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4060"
+            ]
+          },
+          {
+            "id": 8,
+            "nimi": "Kiinteistövero",
+            "summa": 1350,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4070"
+            ]
+          },
+          {
+            "id": 9,
+            "nimi": "Muut hoitomenot",
+            "summa": 1500,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4100",
+              "4200"
+            ]
+          },
+          {
+            "id": 10,
+            "nimi": "Sähkö",
+            "summa": 300,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4010"
+            ]
+          },
+          {
+            "id": 11,
+            "nimi": "KTV-maksu",
+            "summa": 324,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4080"
+            ]
+          }
+        ]
+      },
+      "kaksipuolisetTapahtumat": [
+        {
+          "id": 2024000003,
+          "pvm": "2024-01-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000004,
+          "pvm": "2024-01-08T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000006,
+          "pvm": "2024-02-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000007,
+          "pvm": "2024-02-06T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA TILISIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000008,
+          "pvm": "2024-02-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000009,
+          "pvm": "2024-02-26T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.1
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.1
+            }
+          ]
+        },
+        {
+          "id": 2024000010,
+          "pvm": "2024-02-26T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY TILISIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 215.25
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 215.25
+            }
+          ]
+        },
+        {
+          "id": 2024000011,
+          "pvm": "2024-02-26T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ TILISIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.13
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.13
+            }
+          ]
+        },
+        {
+          "id": 2024000012,
+          "pvm": "2024-03-04T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000013,
+          "pvm": "2024-03-04T00:00:00.000Z",
+          "kuvaus": "Mallinen Pekka TOIVO SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000014,
+          "pvm": "2024-03-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000015,
+          "pvm": "2024-03-11T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000016,
+          "pvm": "2024-03-21T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 42.21
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 42.21
+            }
+          ]
+        },
+        {
+          "id": 2024000017,
+          "pvm": "2024-03-22T00:00:00.000Z",
+          "kuvaus": "MallikaupunkiN ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4020",
+              "debet": 658.47
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 658.47
+            }
+          ]
+        },
+        {
+          "id": 2024000018,
+          "pvm": "2024-03-22T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 56.53
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 56.53
+            }
+          ]
+        },
+        {
+          "id": 2024000019,
+          "pvm": "2024-03-25T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.13
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.13
+            }
+          ]
+        },
+        {
+          "id": 2024000026,
+          "pvm": "2024-04-22T21:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 66.75
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 66.75
+            }
+          ]
+        },
+        {
+          "id": 2024000027,
+          "pvm": "2024-04-23T21:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.13
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.13
+            }
+          ]
+        },
+        {
+          "id": 2024000028,
+          "pvm": "2024-04-25T21:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.1
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.1
+            }
+          ]
+        },
+        {
+          "id": 2024000032,
+          "pvm": "2024-05-02T21:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ]
+        },
+        {
+          "id": 2024000071,
+          "pvm": "2024-09-19T21:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 12.46
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 12.46
+            }
+          ]
+        },
+        {
+          "id": 2024000072,
+          "pvm": "2024-09-22T21:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 66.75
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 66.75
+            }
+          ]
+        },
+        {
+          "id": 2024000073,
+          "pvm": "2024-09-23T21:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.4
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            }
+          ]
+        },
+        {
+          "id": 2024000074,
+          "pvm": "2024-09-23T21:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 11.05
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 11.05
+            }
+          ]
+        },
+        {
+          "id": 2024000075,
+          "pvm": "2024-09-24T21:00:00.000Z",
+          "kuvaus": "MallikaupunkiN KAUPUNKI MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 345
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 345
+            }
+          ]
+        },
+        {
+          "id": 2024000076,
+          "pvm": "2024-09-25T21:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 22.6
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.6
+            }
+          ]
+        },
+        {
+          "id": 2024000077,
+          "pvm": "2024-10-01T21:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000078,
+          "pvm": "2024-10-01T21:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000079,
+          "pvm": "2024-10-03T21:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000080,
+          "pvm": "2024-10-06T21:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000081,
+          "pvm": "2024-10-20T21:00:00.000Z",
+          "kuvaus": "MallikaupunkiN ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4020",
+              "debet": 316.37
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 316.37
+            }
+          ]
+        },
+        {
+          "id": 2024000082,
+          "pvm": "2024-10-22T21:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 81.88
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 81.88
+            }
+          ]
+        },
+        {
+          "id": 2024000083,
+          "pvm": "2024-10-22T21:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 10.23
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 10.23
+            }
+          ]
+        },
+        {
+          "id": 2024000084,
+          "pvm": "2024-10-23T21:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.4
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            }
+          ]
+        },
+        {
+          "id": 2024000085,
+          "pvm": "2024-10-28T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.6
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.6
+            }
+          ]
+        },
+        {
+          "id": 2024000086,
+          "pvm": "2024-10-31T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000087,
+          "pvm": "2024-11-04T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000088,
+          "pvm": "2024-11-04T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000089,
+          "pvm": "2024-11-20T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 14.38
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 14.38
+            }
+          ]
+        },
+        {
+          "id": 2024000090,
+          "pvm": "2024-11-22T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 20.21
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 20.21
+            }
+          ]
+        },
+        {
+          "id": 2024000091,
+          "pvm": "2024-11-25T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 57.22
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 57.22
+            }
+          ]
+        },
+        {
+          "id": 2024000092,
+          "pvm": "2024-11-26T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.25
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.25
+            }
+          ]
+        },
+        {
+          "id": 2024000093,
+          "pvm": "2024-12-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000094,
+          "pvm": "2024-12-09T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000095,
+          "pvm": "2024-12-09T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000096,
+          "pvm": "2024-12-11T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.4
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            }
+          ]
+        },
+        {
+          "id": 2024000097,
+          "pvm": "2024-12-12T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000098,
+          "pvm": "2024-12-12T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2024000099,
+          "pvm": "2024-12-18T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 22.42
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.42
+            }
+          ]
+        },
+        {
+          "id": 2024000100,
+          "pvm": "2024-12-23T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 74.47
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 74.47
+            }
+          ]
+        },
+        {
+          "id": 2024000101,
+          "pvm": "2024-12-27T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.4
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            }
+          ]
+        },
+        {
+          "id": 2024000102,
+          "pvm": "2024-12-27T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 27.8
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 27.8
+            }
+          ]
+        },
+        {
+          "pvm": "2024-11-05T00:00:00.000Z",
+          "kuvaus": "Vakuutusyhtiö VAKUUTUS OY TILISIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "seuraavalle",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 2101.93
+            },
+            {
+              "tili": "4060",
+              "debet": 350.32
+            },
+            {
+              "tili": "1990",
+              "debet": 1751.61
+            }
+          ],
+          "id": 2024000128
+        },
+        {
+          "pvm": "2024-01-02T00:00:00.000Z",
+          "kuvaus": "Vakuutusyhtiö vakuutusmaksu, jaksotuksen purku 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2023000007,
+          "viennit": [
+            {
+              "tili": "4060",
+              "debet": 1531.68
+            },
+            {
+              "tili": "1990",
+              "kredit": 1531.68
+            }
+          ],
+          "id": 2024000129
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "PUHAKKA PIIA PAULIINA SEPA PIKA, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000153,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 541.55
+            },
+            {
+              "tili": "4030",
+              "kredit": 541.55
+            }
+          ],
+          "id": 2024000130
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti VIITESIIRTO, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000154,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 345.86
+            },
+            {
+              "tili": "4030",
+              "kredit": 345.86
+            }
+          ],
+          "id": 2024000131
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI VIITESIIRTO, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000155,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 500
+            },
+            {
+              "tili": "4030",
+              "kredit": 500
+            }
+          ],
+          "id": 2024000132
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKA, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000156,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 131.97
+            },
+            {
+              "tili": "4030",
+              "kredit": 131.97
+            }
+          ],
+          "id": 2024000133
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000170,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 328
+            },
+            {
+              "tili": "4030",
+              "kredit": 328
+            }
+          ],
+          "id": 2024000134
+        },
+        {
+          "pvm": "2024-01-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000135
+        },
+        {
+          "pvm": "2024-01-02T00:00:00.000Z",
+          "kuvaus": "Mallinen Pekka TOIVO SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000136
+        },
+        {
+          "pvm": "2024-03-26T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.05
+            },
+            {
+              "tili": "4200",
+              "debet": 23.05
+            }
+          ],
+          "id": 2024000138
+        },
+        {
+          "pvm": "2024-04-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA TILISIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000139
+        },
+        {
+          "pvm": "2024-04-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000140
+        },
+        {
+          "pvm": "2024-05-01T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000141
+        },
+        {
+          "pvm": "2024-06-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000142
+        },
+        {
+          "pvm": "2024-06-07T00:00:00.000Z",
+          "kuvaus": "Sari Demo SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 20
+            },
+            {
+              "tili": "3000",
+              "kredit": 20
+            }
+          ],
+          "id": 2024000143
+        },
+        {
+          "pvm": "2024-06-03T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000144
+        },
+        {
+          "pvm": "2024-06-03T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000145
+        },
+        {
+          "pvm": "2024-06-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000146
+        },
+        {
+          "pvm": "2024-02-01T00:00:00.000Z",
+          "kuvaus": "Mallinen Pekka TOIVO SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000147
+        },
+        {
+          "pvm": "2024-04-02T00:00:00.000Z",
+          "kuvaus": "Mallinen Pekka TOIVO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000148
+        },
+        {
+          "pvm": "2024-04-08T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000149
+        },
+        {
+          "pvm": "2024-04-19T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 116.79
+            },
+            {
+              "tili": "4010",
+              "debet": 116.79
+            }
+          ],
+          "id": 2024000150
+        },
+        {
+          "pvm": "2024-05-01T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 27.3
+            },
+            {
+              "tili": "4030",
+              "kredit": 27.3
+            }
+          ],
+          "id": 2024000151
+        },
+        {
+          "pvm": "2024-05-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000152
+        },
+        {
+          "pvm": "2024-05-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 140
+            },
+            {
+              "tili": "3000",
+              "kredit": 140
+            }
+          ],
+          "id": 2024000153
+        },
+        {
+          "pvm": "2024-05-20T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY TILISIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 32.78
+            },
+            {
+              "tili": "4010",
+              "debet": 32.78
+            }
+          ],
+          "id": 2024000154
+        },
+        {
+          "pvm": "2024-05-23T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 56.53
+            },
+            {
+              "tili": "4050",
+              "debet": 56.53
+            }
+          ],
+          "id": 2024000155
+        },
+        {
+          "pvm": "2024-05-24T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.13
+            },
+            {
+              "tili": "4080",
+              "debet": 22.13
+            }
+          ],
+          "id": 2024000156
+        },
+        {
+          "pvm": "2024-05-27T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.3
+            },
+            {
+              "tili": "4200",
+              "debet": 23.3
+            }
+          ],
+          "id": 2024000157
+        },
+        {
+          "pvm": "2024-06-17T00:00:00.000Z",
+          "kuvaus": "KX2 PALVELUT OY TILISIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 79.92
+            },
+            {
+              "tili": "4200",
+              "debet": 79.92
+            }
+          ],
+          "id": 2024000158
+        },
+        {
+          "pvm": "2024-06-24T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 97.95
+            },
+            {
+              "tili": "4050",
+              "debet": 97.95
+            }
+          ],
+          "id": 2024000159
+        },
+        {
+          "pvm": "2024-06-24T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ KAAPELITV MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.13
+            },
+            {
+              "tili": "4080",
+              "debet": 22.13
+            }
+          ],
+          "id": 2024000160
+        },
+        {
+          "pvm": "2024-06-26T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 23
+            },
+            {
+              "tili": "4200",
+              "debet": 23
+            }
+          ],
+          "id": 2024000161
+        },
+        {
+          "pvm": "2024-07-01T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000162
+        },
+        {
+          "pvm": "2024-07-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000163
+        },
+        {
+          "pvm": "2024-07-04T00:00:00.000Z",
+          "kuvaus": "VISMA AMILI SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 12.49
+            },
+            {
+              "tili": "4200",
+              "debet": 12.49
+            }
+          ],
+          "id": 2024000164
+        },
+        {
+          "pvm": "2024-07-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000165
+        },
+        {
+          "pvm": "2024-07-08T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000166
+        },
+        {
+          "pvm": "2024-07-08T00:00:00.000Z",
+          "kuvaus": "VEROHALLINTO MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 665.04
+            },
+            {
+              "tili": "4070",
+              "debet": 665.04
+            }
+          ],
+          "id": 2024000167
+        },
+        {
+          "pvm": "2024-07-18T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 15.76
+            },
+            {
+              "tili": "4010",
+              "debet": 15.76
+            }
+          ],
+          "id": 2024000168
+        },
+        {
+          "pvm": "2024-07-19T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 37.57
+            },
+            {
+              "tili": "4010",
+              "debet": 37.57
+            }
+          ],
+          "id": 2024000169
+        },
+        {
+          "pvm": "2024-07-23T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.13
+            },
+            {
+              "tili": "4080",
+              "debet": 22.13
+            }
+          ],
+          "id": 2024000170
+        },
+        {
+          "pvm": "2024-07-22T00:00:00.000Z",
+          "kuvaus": "MallikaupunkiN ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 658.47
+            },
+            {
+              "tili": "4020",
+              "debet": 658.47
+            }
+          ],
+          "id": 2024000173
+        },
+        {
+          "pvm": "2024-07-23T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 56.53
+            },
+            {
+              "tili": "4050",
+              "debet": 56.53
+            }
+          ],
+          "id": 2024000174
+        },
+        {
+          "pvm": "2024-07-26T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.45
+            },
+            {
+              "tili": "4200",
+              "debet": 23.45
+            }
+          ],
+          "id": 2024000175
+        },
+        {
+          "pvm": "2024-08-01T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000176
+        },
+        {
+          "pvm": "2024-08-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000177
+        },
+        {
+          "pvm": "2024-08-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000178
+        },
+        {
+          "pvm": "2024-08-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000179
+        },
+        {
+          "pvm": "2024-08-26T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.85
+            },
+            {
+              "tili": "4200",
+              "debet": 23.85
+            }
+          ],
+          "id": 2024000180
+        },
+        {
+          "pvm": "2024-08-26T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 80.9
+            },
+            {
+              "tili": "4050",
+              "debet": 80.9
+            }
+          ],
+          "id": 2024000181
+        },
+        {
+          "pvm": "2024-08-26T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.13
+            },
+            {
+              "tili": "4080",
+              "debet": 22.13
+            }
+          ],
+          "id": 2024000182
+        },
+        {
+          "pvm": "2024-09-02T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKASIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000183
+        },
+        {
+          "pvm": "2024-09-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000184
+        },
+        {
+          "pvm": "2024-09-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000185
+        },
+        {
+          "pvm": "2024-09-06T00:00:00.000Z",
+          "kuvaus": "VEROHALLINTO MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 665.04
+            },
+            {
+              "tili": "4070",
+              "debet": 665.04
+            }
+          ],
+          "id": 2024000186
+        },
+        {
+          "pvm": "2024-09-09T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ],
+          "id": 2024000187
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000173,
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 38.68
+            },
+            {
+              "tili": "2990",
+              "kredit": 38.68
+            }
+          ],
+          "id": 2024000188
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000174,
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 25.77
+            },
+            {
+              "tili": "2990",
+              "kredit": 25.77
+            }
+          ],
+          "id": 2024000189
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000175,
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 57.22
+            },
+            {
+              "tili": "2990",
+              "kredit": 57.22
+            }
+          ],
+          "id": 2024000190
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000176,
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 40.12
+            },
+            {
+              "tili": "2990",
+              "kredit": 40.12
+            }
+          ],
+          "id": 2024000191
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000177,
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.4
+            },
+            {
+              "tili": "2990",
+              "kredit": 22.4
+            }
+          ],
+          "id": 2024000192
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000178,
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.25
+            },
+            {
+              "tili": "2990",
+              "kredit": 23.25
+            }
+          ],
+          "id": 2024000193
+        },
+        {
+          "pvm": "2024-12-31T00:00:00.000Z",
+          "kuvaus": "Alva vesimaksu 10.2024 - 31.12.2024, jaksotus 2024",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000179,
+          "viennit": [
+            {
+              "tili": "4020",
+              "debet": 501.09
+            },
+            {
+              "tili": "2990",
+              "kredit": 501.09
+            }
+          ],
+          "id": 2024000194
+        },
+        {
+          "pvm": "2024-01-18T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4010",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 91.75
+            },
+            {
+              "tili": "2990",
+              "debet": 91.75
+            }
+          ],
+          "id": 2024000195,
+          "linkedId": 2023000008
+        },
+        {
+          "pvm": "2024-01-22T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4010",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 39.99
+            },
+            {
+              "tili": "2990",
+              "debet": 39.99
+            }
+          ],
+          "id": 2024000196,
+          "linkedId": 2023000009
+        },
+        {
+          "pvm": "2024-01-22T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4050",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 69.68
+            },
+            {
+              "tili": "2990",
+              "debet": 69.68
+            }
+          ],
+          "id": 2024000197,
+          "linkedId": 2023000010
+        },
+        {
+          "pvm": "2024-01-24T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4080",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.13
+            },
+            {
+              "tili": "2990",
+              "debet": 22.13
+            }
+          ],
+          "id": 2024000198,
+          "linkedId": 2023000011
+        },
+        {
+          "pvm": "2024-01-26T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4200",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.5
+            },
+            {
+              "tili": "2990",
+              "debet": 23.5
+            }
+          ],
+          "id": 2024000199,
+          "linkedId": 2023000012
+        }
+      ],
+      "kaksipuolinenKirjanpito": true
+    },
+    "2025": {
+      "vuosi": 2025,
+      "tilit": [
+        {
+          "numero": "FI21123412341234123412",
+          "nimi": "Käyttötili",
+          "tyyppi": "pankki",
+          "saldo": 4625.63,
+          "alkusaldo": 623.09,
+          "id": 1,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 6,
+          "numero": "3000",
+          "nimi": "Hoitovastikkeet",
+          "tyyppi": "tulot",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 7,
+          "numero": "4010",
+          "nimi": "Sähkö",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 9,
+          "numero": "4100",
+          "nimi": "Korjaukset ja ylläpito",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "id": 10,
+          "numero": "4200",
+          "nimi": "Muut kulut",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4060",
+          "nimi": "Vakuutus",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 1763320090868,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4020",
+          "nimi": "Vesi",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 1763361047495,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4050",
+          "nimi": "Jätehuolto",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 2,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4070",
+          "nimi": "Kiinteistövero",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 3,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4080",
+          "nimi": "KTV-maksut",
+          "tyyppi": "kulut",
+          "alkusaldo": 0,
+          "id": 4,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4030",
+          "nimi": "Vesimaksut",
+          "tyyppi": "tulot",
+          "alkusaldo": 0,
+          "id": 1763361047497,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "1100",
+          "nimi": "Rakennukset",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 558524.31,
+          "id": 1763361047498,
+          "saldo": 558524.31,
+          "onKirjanpidollinen": true
+        },
+        {
+          "numero": "1200",
+          "nimi": "Maa-alueet ja liittymät",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 38044.11,
+          "id": 1763361047503,
+          "saldo": 38044.11,
+          "onKirjanpidollinen": true
+        },
+        {
+          "numero": "1300",
+          "nimi": "Kalusto",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 270,
+          "id": 1763361047504,
+          "saldo": 270,
+          "onKirjanpidollinen": true
+        },
+        {
+          "numero": "2999",
+          "nimi": "Tilikauden tulos",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": 0,
+          "id": 1763361047506,
+          "saldo": 30.26,
+          "onKirjanpidollinen": true
+        },
+        {
+          "numero": "1050",
+          "nimi": "Osakepääoma",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": 5920.22,
+          "onKirjanpidollinen": true,
+          "id": 1763361047508,
+          "saldo": 5920.22
+        },
+        {
+          "numero": "1060",
+          "nimi": "Rakennusrahasto",
+          "tyyppi": "rahasto",
+          "alkusaldo": 595183.43,
+          "onKirjanpidollinen": true,
+          "id": 1763361047509,
+          "saldo": 595183.43
+        },
+        {
+          "numero": "1400",
+          "nimi": "Voittovarat",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": -955.07,
+          "onKirjanpidollinen": true,
+          "id": 1763361047510,
+          "saldo": -359.21
+        },
+        {
+          "id": 1763361047511,
+          "numero": "1990",
+          "nimi": "Siirtosaamiset",
+          "tyyppi": "siirtosaaminen",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": true
+        },
+        {
+          "id": 1763361047512,
+          "numero": "2990",
+          "nimi": "Siirtovelat",
+          "tyyppi": "siirtovelka",
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": true
+        },
+        {
+          "tyyppi": "kulut",
+          "numero": "9999",
+          "id": 9999,
+          "nimi": "Tase-oikaisut",
+          "saldo": 0,
+          "alkusaldo": 0,
+          "onKirjanpidollinen": true
+        }
+      ],
+      "talousarvio": {
+        "vuosi": 2026,
+        "neliometrit": 352,
+        "rivit": [
+          {
+            "id": 1,
+            "nimi": "Hoitovastikkeet",
+            "summa": 7680,
+            "tyyppi": "tuotto",
+            "kategoria": "hoitotuotot",
+            "tilit": [
+              "3000"
+            ]
+          },
+          {
+            "id": 3,
+            "nimi": "KTV-maksu",
+            "summa": 350,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4080"
+            ]
+          },
+          {
+            "id": 4,
+            "nimi": "Sähkö",
+            "summa": 400,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": []
+          },
+          {
+            "id": 6,
+            "nimi": "Jätehuolto",
+            "summa": 1000,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4050"
+            ]
+          },
+          {
+            "id": 7,
+            "nimi": "Vahinkovakuutukset",
+            "summa": 650,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": []
+          },
+          {
+            "id": 8,
+            "nimi": "Kiinteistövero",
+            "summa": 1350,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4070"
+            ]
+          },
+          {
+            "id": 9,
+            "nimi": "Muut hoitomenot",
+            "summa": 1500,
+            "tyyppi": "meno",
+            "kategoria": "hoitomenot",
+            "tilit": [
+              "4100",
+              "4200"
+            ]
+          }
+        ]
+      },
+      "poistot": [
+        {
+          "kohde": "Rakennukset",
+          "kuvaus": "Poisto rakennuksista 2,80%",
+          "alkuarvo": 558524.31,
+          "maara": 1563.86,
+          "tili": "1100",
+          "vuosi": 2025,
+          "id": 1
+        }
+      ],
+      "kaksipuolisetTapahtumat": [
+        {
+          "id": 2025000001,
+          "pvm": "2025-01-02T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu TAI ESKOLA ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000002,
+          "pvm": "2025-01-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000003,
+          "pvm": "2025-01-03T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000004,
+          "pvm": "2025-01-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000005,
+          "pvm": "2025-02-02T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000006,
+          "pvm": "2025-02-03T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000007,
+          "pvm": "2025-02-06T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000008,
+          "pvm": "2025-02-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000009,
+          "pvm": "2025-02-20T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 33.69
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 33.69
+            }
+          ]
+        },
+        {
+          "id": 2025000010,
+          "pvm": "2025-02-20T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.4
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            }
+          ]
+        },
+        {
+          "id": 2025000011,
+          "pvm": "2025-02-24T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 229.92
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 229.92
+            }
+          ]
+        },
+        {
+          "id": 2025000012,
+          "pvm": "2025-02-26T00:00:00.000Z",
+          "kuvaus": " PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.6
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.6
+            }
+          ]
+        },
+        {
+          "id": 2025000013,
+          "pvm": "2025-03-01T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000014,
+          "pvm": "2025-03-03T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000015,
+          "pvm": "2025-03-04T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000016,
+          "pvm": "2025-03-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000019,
+          "pvm": "2025-03-18T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 27.76
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 27.76
+            }
+          ]
+        },
+        {
+          "id": 2025000021,
+          "pvm": "2025-03-21T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 43.9
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 43.9
+            }
+          ]
+        },
+        {
+          "id": 2025000023,
+          "pvm": "2025-03-24T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 58.67
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 58.67
+            }
+          ]
+        },
+        {
+          "id": 2025000024,
+          "pvm": "2025-03-24T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.4
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            }
+          ]
+        },
+        {
+          "id": 2025000025,
+          "pvm": "2025-03-26T00:00:00.000Z",
+          "kuvaus": " PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 22.85
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.85
+            }
+          ]
+        },
+        {
+          "id": 2025000026,
+          "pvm": "2025-04-02T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000027,
+          "pvm": "2025-04-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000028,
+          "pvm": "2025-04-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000029,
+          "pvm": "2025-04-07T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000030,
+          "pvm": "2025-04-17T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 26.85
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 26.85
+            }
+          ]
+        },
+        {
+          "id": 2025000031,
+          "pvm": "2025-04-22T00:00:00.000Z",
+          "kuvaus": "MallikaupunkiN ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4020",
+              "debet": 521.45
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 521.45
+            }
+          ]
+        },
+        {
+          "id": 2025000032,
+          "pvm": "2025-04-23T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 58.67
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 58.67
+            }
+          ]
+        },
+        {
+          "id": 2025000033,
+          "pvm": "2025-04-24T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.4
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            }
+          ]
+        },
+        {
+          "id": 2025000034,
+          "pvm": "2025-04-28T00:00:00.000Z",
+          "kuvaus": " PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.7
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.7
+            }
+          ]
+        },
+        {
+          "id": 2025000035,
+          "pvm": "2025-05-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki J TAI RauniSTO T VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000036,
+          "pvm": "2025-05-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000037,
+          "pvm": "2025-05-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000038,
+          "pvm": "2025-05-14T00:00:00.000Z",
+          "kuvaus": "MallikaupunkiN KAUPUNKI SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 345
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 345
+            }
+          ]
+        },
+        {
+          "id": 2025000039,
+          "pvm": "2025-05-21T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 19.74
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 19.74
+            }
+          ]
+        },
+        {
+          "id": 2025000040,
+          "pvm": "2025-05-22T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 34.86
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 34.86
+            }
+          ]
+        },
+        {
+          "id": 2025000042,
+          "pvm": "2025-05-23T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 83.98
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 83.98
+            }
+          ]
+        },
+        {
+          "id": 2025000043,
+          "pvm": "2025-05-26T00:00:00.000Z",
+          "kuvaus": " PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.1
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.1
+            }
+          ]
+        },
+        {
+          "id": 2025000044,
+          "pvm": "2025-05-26T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 22.4
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            }
+          ]
+        },
+        {
+          "id": 2025000045,
+          "pvm": "2025-06-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000046,
+          "pvm": "2025-06-06T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000047,
+          "pvm": "2025-06-09T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000048,
+          "pvm": "2025-06-23T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 76.37
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 76.37
+            }
+          ]
+        },
+        {
+          "id": 2025000049,
+          "pvm": "2025-06-23T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 10.54
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 10.54
+            }
+          ]
+        },
+        {
+          "id": 2025000050,
+          "pvm": "2025-06-24T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 27
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 27
+            }
+          ]
+        },
+        {
+          "id": 2025000051,
+          "pvm": "2025-06-26T00:00:00.000Z",
+          "kuvaus": " PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 23.35
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.35
+            }
+          ]
+        },
+        {
+          "id": 2025000052,
+          "pvm": "2025-07-01T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000053,
+          "pvm": "2025-07-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000054,
+          "pvm": "2025-07-03T00:00:00.000Z",
+          "kuvaus": "K-RAUTA PALOKKA SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4100",
+              "debet": 226.01
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 226.01
+            }
+          ]
+        },
+        {
+          "id": 2025000055,
+          "pvm": "2025-07-04T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000056,
+          "pvm": "2025-07-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000057,
+          "pvm": "2025-07-14T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4020",
+              "debet": 584.87
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 584.87
+            }
+          ]
+        },
+        {
+          "id": 2025000058,
+          "pvm": "2025-07-14T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 17.48
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 17.48
+            }
+          ]
+        },
+        {
+          "id": 2025000059,
+          "pvm": "2025-07-17T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 7.11
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 7.11
+            }
+          ]
+        },
+        {
+          "id": 2025000060,
+          "pvm": "2025-07-23T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 83.98
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 83.98
+            }
+          ]
+        },
+        {
+          "id": 2025000061,
+          "pvm": "2025-07-24T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 27
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 27
+            }
+          ]
+        },
+        {
+          "id": 2025000062,
+          "pvm": "2025-07-28T00:00:00.000Z",
+          "kuvaus": " PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 32.09
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 32.09
+            }
+          ]
+        },
+        {
+          "id": 2025000063,
+          "pvm": "2025-08-01T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000064,
+          "pvm": "2025-08-04T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000065,
+          "pvm": "2025-08-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000066,
+          "pvm": "2025-08-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000067,
+          "pvm": "2025-08-13T00:00:00.000Z",
+          "kuvaus": "KIINTEISTÖVERO SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4070",
+              "debet": 665.7
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 665.7
+            }
+          ]
+        },
+        {
+          "id": 2025000068,
+          "pvm": "2025-08-14T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori KAAPELI-TV MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 27
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 27
+            }
+          ]
+        },
+        {
+          "id": 2025000069,
+          "pvm": "2025-08-18T00:00:00.000Z",
+          "kuvaus": "Energia OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 7.13
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 7.13
+            }
+          ]
+        },
+        {
+          "id": 2025000070,
+          "pvm": "2025-08-18T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 58.67
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 58.67
+            }
+          ]
+        },
+        {
+          "id": 2025000071,
+          "pvm": "2025-08-26T00:00:00.000Z",
+          "kuvaus": " PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 33.02
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 33.02
+            }
+          ]
+        },
+        {
+          "id": 2025000072,
+          "pvm": "2025-09-01T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000073,
+          "pvm": "2025-09-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000074,
+          "pvm": "2025-09-05T00:00:00.000Z",
+          "kuvaus": "KX2 PALVELUT OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4100",
+              "debet": 217.47
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 217.47
+            }
+          ]
+        },
+        {
+          "id": 2025000075,
+          "pvm": "2025-09-05T00:00:00.000Z",
+          "kuvaus": "KIINTEISTÖVERO SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4070",
+              "debet": 658.03
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 658.03
+            }
+          ]
+        },
+        {
+          "id": 2025000076,
+          "pvm": "2025-09-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000077,
+          "pvm": "2025-09-08T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000078,
+          "pvm": "2025-09-12T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 13.57
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 13.57
+            }
+          ]
+        },
+        {
+          "id": 2025000079,
+          "pvm": "2025-09-12T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori KAAPELI-TV SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 27
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 27
+            }
+          ]
+        },
+        {
+          "id": 2025000080,
+          "pvm": "2025-09-12T00:00:00.000Z",
+          "kuvaus": "Energia OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 9.55
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 9.55
+            }
+          ]
+        },
+        {
+          "id": 2025000081,
+          "pvm": "2025-09-14T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 69.28
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 69.28
+            }
+          ]
+        },
+        {
+          "id": 2025000082,
+          "pvm": "2025-09-17T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI TILISIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 68.26
+            },
+            {
+              "tili": "4030",
+              "kredit": 68.26
+            }
+          ]
+        },
+        {
+          "id": 2025000083,
+          "pvm": "2025-09-17T00:00:00.000Z",
+          "kuvaus": "Sari Demo SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 118.32
+            },
+            {
+              "tili": "4030",
+              "kredit": 118.32
+            }
+          ]
+        },
+        {
+          "id": 2025000084,
+          "pvm": "2025-09-22T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 294.12
+            },
+            {
+              "tili": "4030",
+              "kredit": 294.12
+            }
+          ]
+        },
+        {
+          "id": 2025000085,
+          "pvm": "2025-09-22T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 279.89
+            },
+            {
+              "tili": "4030",
+              "kredit": 279.89
+            }
+          ]
+        },
+        {
+          "id": 2025000086,
+          "pvm": "2025-09-23T00:00:00.000Z",
+          "kuvaus": "SÄÄSTÖPANKKI OPTIA OY TILISIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 15
+            },
+            {
+              "tili": "4200",
+              "kredit": 15
+            }
+          ]
+        },
+        {
+          "id": 2025000087,
+          "pvm": "2025-09-25T00:00:00.000Z",
+          "kuvaus": "Mallinen Laura KYLLIKKI SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 94.88
+            },
+            {
+              "tili": "4030",
+              "kredit": 94.88
+            }
+          ]
+        },
+        {
+          "id": 2025000088,
+          "pvm": "2025-09-25T00:00:00.000Z",
+          "kuvaus": "Mallinen Laura KYLLIKKI SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 320
+            },
+            {
+              "tili": "3000",
+              "kredit": 320
+            }
+          ]
+        },
+        {
+          "id": 2025000089,
+          "pvm": "2025-09-26T00:00:00.000Z",
+          "kuvaus": " PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 32.52
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 32.52
+            }
+          ]
+        },
+        {
+          "id": 2025000090,
+          "pvm": "2025-10-01T00:00:00.000Z",
+          "kuvaus": "Mallinen Laura KYLLIKKI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000091,
+          "pvm": "2025-10-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000092,
+          "pvm": "2025-10-06T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000093,
+          "pvm": "2025-10-07T00:00:00.000Z",
+          "kuvaus": "Sari Demo SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 412.72
+            },
+            {
+              "tili": "4030",
+              "kredit": 412.72
+            }
+          ]
+        },
+        {
+          "id": 2025000094,
+          "pvm": "2025-10-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000095,
+          "pvm": "2025-10-09T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 27
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 27
+            }
+          ]
+        },
+        {
+          "id": 2025000096,
+          "pvm": "2025-10-10T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4020",
+              "debet": 532.53
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 532.53
+            }
+          ]
+        },
+        {
+          "id": 2025000097,
+          "pvm": "2025-10-10T00:00:00.000Z",
+          "kuvaus": "Energia OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 11.29
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 11.29
+            }
+          ]
+        },
+        {
+          "id": 2025000098,
+          "pvm": "2025-10-25T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 58.67
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 58.67
+            }
+          ]
+        },
+        {
+          "id": 2025000099,
+          "pvm": "2025-10-27T00:00:00.000Z",
+          "kuvaus": " PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 30.84
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 30.84
+            }
+          ]
+        },
+        {
+          "id": 2025000100,
+          "pvm": "2025-11-03T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000102,
+          "pvm": "2025-11-03T00:00:00.000Z",
+          "kuvaus": "Mallinen Laura KYLLIKKI SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000103,
+          "pvm": "2025-11-04T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000104,
+          "pvm": "2025-11-05T00:00:00.000Z",
+          "kuvaus": "ALVA SÄHKÖVERKKO OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 217.47
+            },
+            {
+              "tili": "4100",
+              "kredit": 217.47
+            }
+          ]
+        },
+        {
+          "id": 2025000105,
+          "pvm": "2025-11-07T00:00:00.000Z",
+          "kuvaus": "Demo Sari SINIKKA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000106,
+          "pvm": "2025-11-10T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 22.4
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            }
+          ]
+        },
+        {
+          "id": 2025000107,
+          "pvm": "2025-11-11T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 27
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 27
+            }
+          ]
+        },
+        {
+          "id": 2025000108,
+          "pvm": "2025-11-13T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 18.57
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 18.57
+            }
+          ]
+        },
+        {
+          "id": 2025000109,
+          "pvm": "2025-11-20T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 101.68
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 101.68
+            }
+          ]
+        },
+        {
+          "id": 2025000110,
+          "pvm": "2025-11-23T11:48:46.857Z",
+          "kuvaus": "SÄHKÖTYÖ RENTOLA OY",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4100",
+              "debet": 107.9
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 107.9
+            }
+          ]
+        },
+        {
+          "id": 2025000111,
+          "pvm": "2025-11-26T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSUT AJALTA 1.-31.10.2025",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 28.22
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 28.22
+            }
+          ]
+        },
+        {
+          "id": 2025000112,
+          "pvm": "2025-12-01T00:00:00.000Z",
+          "kuvaus": "Mallinen Laura KYLLIKKI",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000113,
+          "pvm": "2025-12-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000114,
+          "pvm": "2025-12-05T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000115,
+          "pvm": "2025-12-08T00:00:00.000Z",
+          "kuvaus": "Anna Harjoitus",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2025000116,
+          "pvm": "2025-12-11T15:45:41.702Z",
+          "kuvaus": "Energia ENERGIA OY",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 26.23
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 26.23
+            }
+          ]
+        },
+        {
+          "id": 2025000117,
+          "pvm": "2025-12-15T06:15:12.503Z",
+          "kuvaus": "Teleoperaattori KAAPELI-TV",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 27
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 27
+            }
+          ]
+        },
+        {
+          "id": 2025000118,
+          "pvm": "2025-12-29T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSUT AJALTA 1.-30.11.2025",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 28.72
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 28.72
+            }
+          ]
+        },
+        {
+          "id": 2025000119,
+          "pvm": "2025-12-18T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 58.67
+            },
+            {
+              "tili": "4050",
+              "debet": 58.67
+            }
+          ]
+        },
+        {
+          "id": 2025000145,
+          "pvm": "2025-11-03T00:00:00.000Z",
+          "kuvaus": "IF VAHINKOVAKUUTUS OYJ",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "seuraavalle",
+          "linkedId": 2026000018,
+          "viennit": [
+            {
+              "tili": "4060",
+              "debet": 203.39
+            },
+            {
+              "tili": "1990",
+              "debet": 404.78
+            },
+            {
+              "tili": "FI4556878787",
+              "kredit": 608.17
+            }
+          ]
+        },
+        {
+          "pvm": "2025-01-02T00:00:00.000Z",
+          "kuvaus": "Vakuutusyhtiö VAKUUTUS OY TILISIIRTO, jaksotuksen purku 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2024000128,
+          "viennit": [
+            {
+              "tili": "4060",
+              "debet": 1751.61
+            },
+            {
+              "tili": "1990",
+              "kredit": 1751.61
+            }
+          ],
+          "id": 2025000152
+        },
+        {
+          "pvm": "2025-03-10T00:00:00.000Z",
+          "kuvaus": "PUHAKKA PIIA PAULIINA SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 541.55
+            },
+            {
+              "tili": "1990",
+              "kredit": 541.55
+            }
+          ],
+          "id": 2025000153,
+          "linkedId": 2024000130
+        },
+        {
+          "pvm": "2025-03-10T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 345.86
+            },
+            {
+              "tili": "1990",
+              "kredit": 345.86
+            }
+          ],
+          "id": 2025000154,
+          "linkedId": 2024000131
+        },
+        {
+          "pvm": "2025-03-20T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 500
+            },
+            {
+              "tili": "1990",
+              "kredit": 500
+            }
+          ],
+          "id": 2025000155,
+          "linkedId": 2024000132
+        },
+        {
+          "pvm": "2025-03-23T00:00:00.000Z",
+          "kuvaus": "Pekka Mallinen SEPA PIKA",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 131.97
+            },
+            {
+              "tili": "1990",
+              "kredit": 131.97
+            }
+          ],
+          "id": 2025000156,
+          "linkedId": 2024000133
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000019,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 147.06
+            },
+            {
+              "tili": "4030",
+              "kredit": 147.06
+            }
+          ],
+          "id": 2025000158
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000020,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 118.6
+            },
+            {
+              "tili": "4030",
+              "kredit": 118.6
+            }
+          ],
+          "id": 2025000159
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI (perusmaksut), jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000021,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 42.02
+            },
+            {
+              "tili": "4030",
+              "kredit": 42.02
+            }
+          ],
+          "id": 2025000160
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA (perusmaksut), jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000022,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 42.02
+            },
+            {
+              "tili": "4030",
+              "kredit": 42.02
+            }
+          ],
+          "id": 2025000161
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Mallinen Laura KYLLIKKI, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000024,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 94.6
+            },
+            {
+              "tili": "4030",
+              "kredit": 94.6
+            }
+          ],
+          "id": 2025000163
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Loppuvuoden vesilasku, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000025,
+          "viennit": [
+            {
+              "tili": "4020",
+              "debet": 453.74
+            },
+            {
+              "tili": "2990",
+              "kredit": 453.74
+            }
+          ],
+          "id": 2025000164
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori KAAPELI-TV, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000026,
+          "viennit": [
+            {
+              "tili": "4080",
+              "debet": 27
+            },
+            {
+              "tili": "2990",
+              "kredit": 27
+            }
+          ],
+          "id": 2025000165
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000027,
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 38.88
+            },
+            {
+              "tili": "2990",
+              "kredit": 38.88
+            }
+          ],
+          "id": 2025000166
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000028,
+          "viennit": [
+            {
+              "tili": "4010",
+              "debet": 22.03
+            },
+            {
+              "tili": "2990",
+              "kredit": 22.03
+            }
+          ],
+          "id": 2025000167
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000029,
+          "viennit": [
+            {
+              "tili": "4050",
+              "debet": 58.67
+            },
+            {
+              "tili": "2990",
+              "kredit": 58.67
+            }
+          ],
+          "id": 2025000168
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSUT maksettu 1.-31.12.2025, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000030,
+          "viennit": [
+            {
+              "tili": "4200",
+              "debet": 17.27
+            },
+            {
+              "tili": "2990",
+              "kredit": 17.27
+            }
+          ],
+          "id": 2025000169
+        },
+        {
+          "pvm": "2025-05-23T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA VIITESIIRTO",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 328
+            },
+            {
+              "tili": "1990",
+              "kredit": 328
+            }
+          ],
+          "id": 2025000170,
+          "linkedId": 2024000134
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Harjoitus Anna HANNELE, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000031,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 4.74
+            },
+            {
+              "tili": "4030",
+              "kredit": 4.74
+            }
+          ],
+          "id": 2025000171
+        },
+        {
+          "pvm": "2025-12-31T00:00:00.000Z",
+          "kuvaus": "Harjoitus Anna HANNELE, jaksotus 2025",
+          "tyyppi": "jaksotus",
+          "linkedId": 2026000032,
+          "viennit": [
+            {
+              "tili": "1990",
+              "debet": 42.42
+            },
+            {
+              "tili": "4030",
+              "kredit": 42.42
+            }
+          ],
+          "id": 2025000172
+        },
+        {
+          "pvm": "2025-01-20T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4010",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 38.68
+            },
+            {
+              "tili": "2990",
+              "debet": 38.68
+            }
+          ],
+          "id": 2025000173,
+          "linkedId": 2024000188
+        },
+        {
+          "pvm": "2025-01-22T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4010",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 25.77
+            },
+            {
+              "tili": "2990",
+              "debet": 25.77
+            }
+          ],
+          "id": 2025000174,
+          "linkedId": 2024000189
+        },
+        {
+          "pvm": "2025-01-23T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4050",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 57.22
+            },
+            {
+              "tili": "2990",
+              "debet": 57.22
+            }
+          ],
+          "id": 2025000175,
+          "linkedId": 2024000190
+        },
+        {
+          "pvm": "2025-01-23T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4080",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 40.12
+            },
+            {
+              "tili": "2990",
+              "debet": 40.12
+            }
+          ],
+          "id": 2025000176,
+          "linkedId": 2024000191
+        },
+        {
+          "pvm": "2025-01-23T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori OYJ MAKSUPALVELU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4080",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.4
+            },
+            {
+              "tili": "2990",
+              "debet": 22.4
+            }
+          ],
+          "id": 2025000177,
+          "linkedId": 2024000192
+        },
+        {
+          "pvm": "2025-01-27T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSU",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4200",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 23.25
+            },
+            {
+              "tili": "2990",
+              "debet": 23.25
+            }
+          ],
+          "id": 2025000178,
+          "linkedId": 2024000193
+        },
+        {
+          "pvm": "2025-01-27T00:00:00.000Z",
+          "kuvaus": "Alva vesimaksu 10.2024 - 31.12.2024",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4020",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 501.09
+            },
+            {
+              "tili": "2990",
+              "debet": 501.09
+            }
+          ],
+          "id": 2025000179,
+          "linkedId": 2024000194
+        }
+      ],
+      "kaksipuolinenKirjanpito": true
+    },
+    "2026": {
+      "vuosi": 2026,
+      "tilit": [
+        {
+          "numero": "FI21123412341234123412",
+          "nimi": "Käyttötili",
+          "tyyppi": "pankki",
+          "id": 1767790586132,
+          "alkusaldo": 4625.63,
+          "saldo": 4625.63,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "3000",
+          "nimi": "Hoitovastikkeet",
+          "tyyppi": "tulot",
+          "id": 1767790586025,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4010",
+          "nimi": "Sähkö",
+          "tyyppi": "kulut",
+          "id": 1767790585939,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4100",
+          "nimi": "Korjaukset ja ylläpito",
+          "tyyppi": "kulut",
+          "id": 1767790585671,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4200",
+          "nimi": "Muut kulut",
+          "tyyppi": "kulut",
+          "id": 1767790586135,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4060",
+          "nimi": "Vakuutus",
+          "tyyppi": "kulut",
+          "id": 1767790585893,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4020",
+          "nimi": "Vesi",
+          "tyyppi": "kulut",
+          "id": 1767790585401,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4050",
+          "nimi": "Jätehuolto",
+          "tyyppi": "kulut",
+          "id": 1767790585950,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4070",
+          "nimi": "Kiinteistövero",
+          "tyyppi": "kulut",
+          "id": 1767790585683,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "4080",
+          "nimi": "KTV-maksut",
+          "tyyppi": "kulut",
+          "id": 1767790585551,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "1060",
+          "nimi": "Rakennusrahasto",
+          "tyyppi": "rahasto",
+          "id": 1767790585836,
+          "alkusaldo": 595183.43,
+          "saldo": 595183.43,
+          "onKirjanpidollinen": true
+        },
+        {
+          "numero": "4030",
+          "nimi": "Vesimaksut",
+          "tyyppi": "tulot",
+          "id": 1767790585750,
+          "alkusaldo": 0,
+          "saldo": 0,
+          "onKirjanpidollinen": false
+        },
+        {
+          "numero": "1100",
+          "nimi": "Rakennukset",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 556960.45,
+          "id": 1767790586136,
+          "saldo": 558524.31,
+          "onKirjanpidollinen": true
+        },
+        {
+          "numero": "1200",
+          "nimi": "Maa-alueet ja liittymät",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 38044.11,
+          "id": 1767790586141,
+          "saldo": 38044.11,
+          "onKirjanpidollinen": true
+        },
+        {
+          "id": 1767790586142,
+          "numero": "2999",
+          "nimi": "Tilikauden tulos",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": 0,
+          "saldo": 235.22,
+          "onKirjanpidollinen": true
+        },
+        {
+          "numero": "1300",
+          "nimi": "Kalusto",
+          "tyyppi": "kiinteisto",
+          "alkusaldo": 270,
+          "onKirjanpidollinen": true,
+          "id": 1767790586143,
+          "saldo": 270
+        },
+        {
+          "numero": "1050",
+          "nimi": "Osakepääoma",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": 5920.22,
+          "onKirjanpidollinen": true,
+          "id": 1767790586144,
+          "saldo": 5920.22
+        },
+        {
+          "numero": "1400",
+          "nimi": "Voittovarat",
+          "tyyppi": "oma-paaoma",
+          "alkusaldo": -924.81,
+          "onKirjanpidollinen": true,
+          "id": 1767790586145,
+          "saldo": 0
+        },
+        {
+          "numero": "1990",
+          "nimi": "Siirtosaamiset",
+          "tyyppi": "siirtosaaminen",
+          "alkusaldo": 0,
+          "onKirjanpidollinen": true,
+          "id": 1767790586146,
+          "saldo": 0
+        },
+        {
+          "numero": "2990",
+          "nimi": "Siirtovelat",
+          "tyyppi": "siirtovelka",
+          "alkusaldo": 0,
+          "onKirjanpidollinen": true,
+          "id": 1767790586147,
+          "saldo": 0
+        }
+      ],
+      "poistot": [
+        {
+          "id": 1,
+          "kuvaus": "Rakennusten vuosipoisto 2026",
+          "kohde": "Rakennukset",
+          "alkuarvo": 558524.31,
+          "maara": 0,
+          "vuosi": 2026,
+          "tili": "1100"
+        }
+      ],
+      "talousarvio": {
+        "vuosi": 2026,
+        "neliometrit": 352,
+        "rivit": []
+      },
+      "kaksipuolisetTapahtumat": [
+        {
+          "id": 2026000001,
+          "pvm": "2026-01-02T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2026000002,
+          "pvm": "2026-01-07T00:00:00.000Z",
+          "kuvaus": "Harjoitus Anna HANNELE",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2026000003,
+          "pvm": "2026-01-05T00:00:00.000Z",
+          "kuvaus": "Mallinen Laura KYLLIKKI",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2026000004,
+          "pvm": "2026-01-09T10:11:10.544Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA",
+          "tyyppi": "maksutapahtuma",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 160
+            },
+            {
+              "tili": "3000",
+              "kredit": 160
+            }
+          ]
+        },
+        {
+          "id": 2026000018,
+          "pvm": "2026-01-02T00:00:00.000Z",
+          "kuvaus": "IF VAHINKOVAKUUTUS OYJ, jaksotuksen purku 2026",
+          "tyyppi": "jaksotus",
+          "linkedId": 2025000145,
+          "viennit": [
+            {
+              "tili": "4060",
+              "debet": 404.78
+            },
+            {
+              "tili": "1990",
+              "kredit": 404.78
+            }
+          ]
+        },
+        {
+          "pvm": "2026-01-07T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 147.06
+            },
+            {
+              "tili": "1990",
+              "kredit": 147.06
+            }
+          ],
+          "id": 2026000019,
+          "linkedId": 2025000158
+        },
+        {
+          "pvm": "2026-01-09T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 118.6
+            },
+            {
+              "tili": "1990",
+              "kredit": 118.6
+            }
+          ],
+          "id": 2026000020,
+          "linkedId": 2025000159
+        },
+        {
+          "pvm": "2026-01-13T00:00:00.000Z",
+          "kuvaus": "Esimerkki Matti JALAnna/RauniSTO TUULI (perusmaksut)",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 42.02
+            },
+            {
+              "tili": "1990",
+              "kredit": 42.02
+            }
+          ],
+          "id": 2026000021,
+          "linkedId": 2025000160
+        },
+        {
+          "pvm": "2026-01-13T00:00:00.000Z",
+          "kuvaus": "Testinen Teemu OSKARI/Testinen ANNA (perusmaksut)",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 42.02
+            },
+            {
+              "tili": "1990",
+              "kredit": 42.02
+            }
+          ],
+          "id": 2026000022,
+          "linkedId": 2025000161
+        },
+        {
+          "pvm": "2026-01-19T00:00:00.000Z",
+          "kuvaus": "Mallinen Laura KYLLIKKI",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 94.6
+            },
+            {
+              "tili": "1990",
+              "kredit": 94.6
+            }
+          ],
+          "id": 2026000024,
+          "linkedId": 2025000163
+        },
+        {
+          "pvm": "2026-01-08T00:00:00.000Z",
+          "kuvaus": "Loppuvuoden vesilasku",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4020",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 453.74
+            },
+            {
+              "tili": "2990",
+              "debet": 453.74
+            }
+          ],
+          "id": 2026000025,
+          "linkedId": 2025000164
+        },
+        {
+          "pvm": "2026-01-08T00:00:00.000Z",
+          "kuvaus": "Teleoperaattori KAAPELI-TV",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4080",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 27
+            },
+            {
+              "tili": "2990",
+              "debet": 27
+            }
+          ],
+          "id": 2026000026,
+          "linkedId": 2025000165
+        },
+        {
+          "pvm": "2026-01-07T00:00:00.000Z",
+          "kuvaus": "ALVA-YHTIÖT OY",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4010",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 38.88
+            },
+            {
+              "tili": "2990",
+              "debet": 38.88
+            }
+          ],
+          "id": 2026000027,
+          "linkedId": 2025000166
+        },
+        {
+          "pvm": "2026-01-13T00:00:00.000Z",
+          "kuvaus": "Energia ENERGIA OY",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4010",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 22.03
+            },
+            {
+              "tili": "2990",
+              "debet": 22.03
+            }
+          ],
+          "id": 2026000028,
+          "linkedId": 2025000167
+        },
+        {
+          "pvm": "2026-01-13T00:00:00.000Z",
+          "kuvaus": "Jäteyhtiö OY",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4050",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 58.67
+            },
+            {
+              "tili": "2990",
+              "debet": 58.67
+            }
+          ],
+          "id": 2026000029,
+          "linkedId": 2025000168
+        },
+        {
+          "pvm": "2026-01-26T00:00:00.000Z",
+          "kuvaus": "PALVELUMAKSUT maksettu 1.-31.12.2025",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4200",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "kredit": 17.27
+            },
+            {
+              "tili": "2990",
+              "debet": 17.27
+            }
+          ],
+          "id": 2026000030,
+          "linkedId": 2025000169
+        },
+        {
+          "pvm": "2026-01-21T00:00:00.000Z",
+          "kuvaus": "Harjoitus Anna HANNELE",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 4.74
+            },
+            {
+              "tili": "1990",
+              "kredit": 4.74
+            }
+          ],
+          "id": 2026000031,
+          "linkedId": 2025000171
+        },
+        {
+          "pvm": "2026-01-22T00:00:00.000Z",
+          "kuvaus": "Harjoitus Anna HANNELE",
+          "tyyppi": "maksutapahtuma",
+          "jaksotusKohdistus": "edelliselle",
+          "alkuperainenKohdetili": "4030",
+          "viennit": [
+            {
+              "tili": "FI4556878787",
+              "debet": 42.42
+            },
+            {
+              "tili": "1990",
+              "kredit": 42.42
+            }
+          ],
+          "id": 2026000032,
+          "linkedId": 2025000172
+        }
+      ],
+      "kaksipuolinenKirjanpito": true
+    }
+  },
+  "nykyinenVuosi": 2025
+}
